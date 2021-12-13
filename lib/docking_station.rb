@@ -1,7 +1,3 @@
-
-
 class DockingStation
-  
+
 end
-
-
